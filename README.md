@@ -11,5 +11,5 @@ My name is Gabriel Amorim Silva, and I'm a Bioprocesses and Biotechnology Engene
 ![](https://img.shields.io/badge/Tools-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=1e8360)
 
 You can find me on: 
-* <img src="gmail.svg" width="20px" alt="Gmail"> - gabrielamorimsilva@gmail.com
+* <img src="mail-dot-ru.svg" width="20px" alt="Gmail"> - gabrielamorimsilva@gmail.com
 * <img src="linkedin.svg" width="20px" alt="Linkedin"> - https://www.linkedin.com/in/gabriel-a-a-silva/
