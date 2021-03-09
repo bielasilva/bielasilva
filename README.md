@@ -12,4 +12,4 @@ My name is Gabriel Amorim Silva, and I'm a Bioprocesses and Biotechnology Engene
 
 You can find me on: 
 * <img src="mail-dot-ru.svg" width="20px" alt="Gmail"> - gabrielamorimsilva@gmail.com
-* <img src="linkedin.svg" width="20px" alt="Linkedin"> - https://www.linkedin.com/in/gabriel-a-a-silva/
+* <img src="linkedin_color.svg" width="20px" alt="Linkedin"> - https://www.linkedin.com/in/gabriel-a-a-silva/
