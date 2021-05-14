@@ -1,6 +1,6 @@
 # Hello there. <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="40px">
 
-My name is Gabriel Amorim Silva, and I'm a Bioprocesses and Biotechnology Engeneering brazilian undergrad. I'm orienting my career to Bioinformatics, and currently working with genomics and metagenomics.
+My name is Gabriel Amorim Silva, and I am a Bioprocesses and Biotechnology Engineering undergrad student from Brazil. I am focusing my career in Bioinformatics, and am currently working with genomics and metagenomics.
 
 ## 🖥️ Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=1e8360)
